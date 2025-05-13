@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+    box-sizing: border-box;
+    background-color: var(--color-zinc-900);
+}
